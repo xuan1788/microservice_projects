@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wallet" />
+        <module name="chapter01-springBoot" />
+        <module name="authserver" />
+        <module name="efence" />
+        <module name="configserver" />
+        <module name="monitor-demo" />
+        <module name="devops-demo" />
+        <module name="resourceserver" />
+        <module name="experiment" />
+        <module name="elasticjob-springboot-starter" />
+        <module name="experiment-java-client" />
+        <module name="payment" />
+        <module name="check-schedule" />
+        <module name="experiment-access-demo" />
+        <module name="experiment-java-starter" />
+        <module name="user" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="authserver" target="1.5" />
+      <module name="chapter01-springBoot" target="1.8" />
+      <module name="check-schedule" target="1.5" />
+      <module name="configserver" target="1.5" />
+      <module name="devops-demo" target="1.5" />
+      <module name="efence" target="1.5" />
+      <module name="elasticjob-springboot-starter" target="1.5" />
+      <module name="experiment" target="1.5" />
+      <module name="experiment-access-demo" target="1.5" />
+      <module name="experiment-java-client" target="1.5" />
+      <module name="experiment-java-starter" target="1.5" />
+      <module name="gateway" target="1.8" />
+      <module name="monitor-demo" target="1.5" />
+      <module name="payment" target="1.5" />
+      <module name="resourceserver" target="1.5" />
+      <module name="user" target="1.8" />
+      <module name="wallet" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="chapter01-springBoot" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="user" options="-parameters" />
+    </option>
+  </component>
+</project>

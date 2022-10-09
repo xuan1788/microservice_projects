@@ -1,0 +1,4 @@
+# Project exclude paths
+/chapter01-springboot/target/
+/chapter02-user/target/
+/chapter03-gateway/target/

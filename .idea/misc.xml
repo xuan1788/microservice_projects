@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/chapter02-user/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter04-efence/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter05-wallet/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter03-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter06-payment/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter01-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter07-experiment/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter09-devops-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter04-configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10-monitor-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter03-sso-authserver/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter08-check-schedule/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter03-sso-resourceserver/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter07-experiment-access-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter07-experiment-java-client/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter07-experiment-java-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter08-elasticjob-springboot-starter/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK" />
+</project>

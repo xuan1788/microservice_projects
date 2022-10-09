@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter03-sso-authserver/authserver.iml" filepath="$PROJECT_DIR$/chapter03-sso-authserver/authserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter01-springboot/chapter01-springBoot.iml" filepath="$PROJECT_DIR$/chapter01-springboot/chapter01-springBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter08-check-schedule/check-schedule.iml" filepath="$PROJECT_DIR$/chapter08-check-schedule/check-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04-configserver/configserver.iml" filepath="$PROJECT_DIR$/chapter04-configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09-devops-demo/devops-demo.iml" filepath="$PROJECT_DIR$/chapter09-devops-demo/devops-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04-efence/efence.iml" filepath="$PROJECT_DIR$/chapter04-efence/efence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter08-elasticjob-springboot-starter/elasticjob-springboot-starter.iml" filepath="$PROJECT_DIR$/chapter08-elasticjob-springboot-starter/elasticjob-springboot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter07-experiment/experiment.iml" filepath="$PROJECT_DIR$/chapter07-experiment/experiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter07-experiment-access-demo/experiment-access-demo.iml" filepath="$PROJECT_DIR$/chapter07-experiment-access-demo/experiment-access-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter07-experiment-java-client/experiment-java-client.iml" filepath="$PROJECT_DIR$/chapter07-experiment-java-client/experiment-java-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter07-experiment-java-starter/experiment-java-starter.iml" filepath="$PROJECT_DIR$/chapter07-experiment-java-starter/experiment-java-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03-gateway/gateway.iml" filepath="$PROJECT_DIR$/chapter03-gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservice_projects.iml" filepath="$PROJECT_DIR$/.idea/microservice_projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10-monitor-demo/monitor-demo.iml" filepath="$PROJECT_DIR$/chapter10-monitor-demo/monitor-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter06-payment/payment.iml" filepath="$PROJECT_DIR$/chapter06-payment/payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03-sso-resourceserver/resourceserver.iml" filepath="$PROJECT_DIR$/chapter03-sso-resourceserver/resourceserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter02-user/user.iml" filepath="$PROJECT_DIR$/chapter02-user/user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter05-wallet/wallet.iml" filepath="$PROJECT_DIR$/chapter05-wallet/wallet.iml" />
+    </modules>
+  </component>
+</project>
